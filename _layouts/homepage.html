@@ -68,6 +68,12 @@
         </a>
         {% endif %}
 
+        {% if site.email_link %}
+        <a style="margin: 0 5px 0 0" href="{{ site.email_link }}">
+          <i class="fas fa-fw fa-envelope"></i>
+        </a>
+        {% endif %}
+
         {% if site.linkedin %}
         <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
           <i class="fab fa-linkedin"></i>
