@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am purchasing the Master degree at Vision and Cognition Lab (VCL), [Southeast University](https://www.seu.edu.cn/), supervised by Professor [Yangang Wang](https://www.yangangwang.com/). Prior to this, I obtained my Bachelor degree in Automation, [Nanjing University of Aeronautics and Astronautics University](http://nuaa.edu.cn/) (2022).
+I am pursuing the Master degree at Vision and Cognition Lab (VCL), [Southeast University](https://www.seu.edu.cn/), supervised by Professor [Yangang Wang](https://www.yangangwang.com/). Prior to this, I obtained my Bachelor degree in Automation, [Nanjing University of Aeronautics and Astronautics University](http://nuaa.edu.cn/) (2022).
 
 My research focuses on human motion capture and human pose estimation, particularly with the 3D scenes.
 
